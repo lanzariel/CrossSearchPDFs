@@ -1,0 +1,16 @@
+{
+  "name": "cross-search-pdfs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ariel Lanza <elzaralian@gmail.com> (https://github.com/lanzariel)",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
+}
